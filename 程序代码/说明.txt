@@ -1,0 +1,1 @@
+使用matlab软件运行，首先运行文件data_1，然后运行文件shu_zi_shi_bie
